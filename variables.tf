@@ -6,7 +6,6 @@ variable "instance_type" {
 variable "key_name" {
   type = mykey
 }
-
 variable "num_of_instance" {
   type = number
   default = 1
