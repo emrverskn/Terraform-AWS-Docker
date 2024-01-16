@@ -4,7 +4,7 @@ variable "instance_type" {
 }
 
 variable "key_name" {
-  type = mykey
+  type = *****
 }
 
 variable "num_of_instance" {
